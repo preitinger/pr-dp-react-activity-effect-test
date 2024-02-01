@@ -1,0 +1,3 @@
+[submodule "app/_lib/pr-dp-react-activity-effect-common"]
+	path = app/_lib/pr-dp-react-activity-effect-common
+	url = https://github.com/preitinger/pr-dp-react-activity-effect-common.git
